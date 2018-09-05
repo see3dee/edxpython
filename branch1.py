@@ -1,5 +1,5 @@
-x =int(input('please enter a value to see if it is even or odd: '))
-if x%2 = 0:
+x = int(input('please enter a value to see if it is even or odd: '))
+if x%2 == 0:
     print('')
     print('x is even!!!')
 else:
