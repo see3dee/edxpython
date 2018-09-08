@@ -10,4 +10,3 @@ while (itersleft > 0):
 print( str(n) + ' squared is equal to ' + str(ans))
 
 
-
